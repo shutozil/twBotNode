@@ -1,0 +1,23 @@
+{
+  "name": "tw-botn-ode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shutozil/twBotNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shutozil/twBotNode/issues"
+  },
+  "homepage": "https://github.com/shutozil/twBotNode#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
